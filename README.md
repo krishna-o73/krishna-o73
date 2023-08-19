@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sai Krishna</h1>
-<h3 align="center">A undergraduate student major in computer science have a great interest in AI and ML.</h3>
+<h3 align="center">A undergraduate student studying at Sreenidhi Institue of Science and Technology, major in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-073&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-073" /> </p>
 
