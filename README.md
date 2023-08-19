@@ -20,7 +20,6 @@
 <a href="https://www.codechef.com/users/saikrishna0755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saikrishna0755" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saikrishna0755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saikrishna0755" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saikrishna0755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saikrishna0755" height="30" width="40" /></a>
-
 <a href="https://www.hackerearth.com/@saikrishna0755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saikrishna0755" height="30" width="40" /></a>
 
 </p>
