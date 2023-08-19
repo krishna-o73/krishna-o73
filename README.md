@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-073&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-073" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-073" alt="krishna-073" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Backend Development**
+- 🌱 I’m currently learning Django and Backend Development
 
-- 💬 Ask me about **Data structures and algorithms, Java, JavaFx, Front end Development.**
+- 💬 Ask me about Data structures and algorithms, Java, JavaFx, Front end Development.
 
-- 📫 How to reach me **saikrishna0755@gmail.com**
+- 📫 How to reach me saikrishna0755@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
