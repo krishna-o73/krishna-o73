@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-o73&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-o73" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-o73" alt="krishna-o73" /></a> </p>
+
 - 🌱 I’m currently learning **Django and Backend Development**
 
 - 💬 Ask me about **Data structures and algorithms, Java, JavaFx, Front end Development.**
