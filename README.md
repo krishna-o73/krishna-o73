@@ -1,6 +1,7 @@
 # Hi there, I'm Sai Krishna👋:
 🔭 I'm a undergraduate student major in computer science have a great interest in AI and ML.<br>🌱 I’m currently learning Django and Backend Development.<br>💬 Ask me about Data structures and algorithms, Java, JavaFx, Front end Development.<br>📫 Contact me **saikrishna0755@gmail.com**.
 
+[![](https://visitcount.itsvg.in/api?id=krishna-o73&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-o755) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sai-krishna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishna_o73/)
@@ -17,8 +18,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishna-o73&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=krishna-o73&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
