@@ -1,5 +1,5 @@
 # Hi there, I'm Sai Krishna👋:
-🔭 I'm a undergraduate student major in computer science have a great interest in AI and ML.<br>🌱 I’m currently learning Django and Backend Development.<br>💬 Ask me about Data structures and algorithms, Java, JavaFx, Front end Development.<br>📫 Contact me **saikrishna0755@gmail.com**.
+🔭 I'm a undergraduate student major in computer science have a great interest in AI and ML.<br>🌱 I’m currently learning Machine learning.<br>💬 Ask me about Data structures and algorithms, Java, JavaFx, Front end Development,Django and Backend Development.<br>📫 Contact me **saikrishna0755@gmail.com**.
 
 [![](https://visitcount.itsvg.in/api?id=krishna-o73&icon=0&color=1)](https://visitcount.itsvg.in)
 
